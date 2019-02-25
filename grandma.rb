@@ -23,5 +23,5 @@ def speak_to_grandma(string)
   end
 
 speak_to_grandma("john")
-speak_to_grandma("I LOVE YOU PUMPKIN")
+speak_to_grandma("I LOVE YOU PUMPKIN!")
 speak_to_grandma("HELLO")
